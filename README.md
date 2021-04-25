@@ -1,10 +1,12 @@
 # Horiseon Code Refactoring
 
-Completed refactoring of a provided broken code for Horiseon. I also cleaned up the provided code with proper semantics.
+Completed refactoring of a provided broken code for Horiseon. The provided code consists of HTML and CSS. I also cleaned up the provided code with proper semantics.
 
 ---
 
 ## Process
+
+---
 
 1. Created a title.
 2. Changed div tag's to section tags.
@@ -17,6 +19,7 @@ Completed refactoring of a provided broken code for Horiseon. I also cleaned up 
 ---
 
 ## Screenshots
+---
 
 ![Screenshot](\assets\images\screenshots\Horiseon-Main.png "Screenshot of the top of page")
 
