@@ -1,13 +1,16 @@
+/* Styles the whole page */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Gives the body color */
 body {
     background-color: #d9dcd6;
 }
 
+/* Styles the header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,15 +18,18 @@ body {
     color: #ffffff;
 }
 
+/* Specific styling to header */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* Change section of text colors in Horiseon */
 .header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Styles the navigation bar */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,21 +38,25 @@ body {
     font-size: 20px;
 }
 
+/* Specific style to lists */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
     list-style-type: none;
 }
 
+/* Styles all anchor tags */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* Styles all paragraph tags */
 p {
     font-size: 16px;
 }
 
+/* Style the page below header */
 .hero {
     height: 800px;
     width: 100%;
@@ -56,22 +66,26 @@ p {
     background-position: center;
 }
 
+/* Push content left */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* Push content right */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* Style the body */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Style the benefit section */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -83,23 +97,27 @@ p {
     background-color: #2589bd;
 }
 
+/* Specific stylings to benefit section */
 .fancy-styling-benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* Specific stylings to benefit section headers */
 .fancy-styling-benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* Specific stylings to benefit section images */
 .fancy-styling-benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.fancy-styling-links {
+/* Specific styling to body */
+.fancy-styling-body {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -108,15 +126,18 @@ p {
     color: #ffffff;
 }
 
-.fancy-styling-links img {
+/* Specific styling to body images */
+.fancy-styling-body img {
     max-height: 200px;
 }
 
-.fancy-styling-links h2 {
+/* Specific styling to body headers */
+.fancy-styling-body h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* Style the footer */
 .footer {
     padding: 30px;
     clear: both;
@@ -124,6 +145,7 @@ p {
     text-align: center;
 }
 
+/* Specific styling to the footer header */
 .footer h2 {
     font-size: 20px;
 }
