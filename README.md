@@ -6,8 +6,6 @@ Completed refactoring of a provided broken code for Horiseon. The provided code 
 
 ## Process
 
----
-
 1. Created a title.
 2. Changed div tag's to section tags.
 3. Changed header link classes and removed repeated code.
@@ -19,13 +17,12 @@ Completed refactoring of a provided broken code for Horiseon. The provided code 
 ---
 
 ## Screenshots
----
 
-![Screenshot](\assets\images\screenshots\Horiseon-Main.png "Screenshot of the top of page")
+![Top of page](\assets\images\Horiseon-Main.png "Screenshot")
 
-![Screenshot](\assets\images\screenshots\Horiseon-Center.png "Screenshot of the middle of page")
+![Bottom of page](\assets\images\Horiseon-Center.png "Screenshot")
 
-![Screenshot](\assets\images\screenshots\Horiseon-Bottom.png "Screenshot of the bottom of page")
+![Middle of page](\assets\images\Horiseon-Bottom.png "Screenshot")
 
 ---
 
