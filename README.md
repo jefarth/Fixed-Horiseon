@@ -18,11 +18,11 @@ Completed refactoring of a provided broken code for Horiseon. The provided code 
 
 ## Screenshots
 
-![Top of page](.\assets\images\Horiseon-Main.png)
+![Top of page](./assets/images/Horiseon-Main.png)
 
-![Bottom of page](.\assets\images\Horiseon-Center.png)
+![Bottom of page](./assets/images/Horiseon-Center.png)
 
-![Middle of page](.\assets\images\Horiseon-Bottom.png)
+![Middle of page](./assets/images/Horiseon-Bottom.png)
 
 ---
 
